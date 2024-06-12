@@ -2,5 +2,16 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+xiaoyaliu/alist:hostmode
+stashapp/stash:latest
+ddsderek/xiaoya-emd:latest
+emby/embyserver:latest
+linuxserver/calibre-web:latest
+xhongc/music_tag_web:latest
+halcyonazure/lsky-pro-docker:latest
+mysql:8.0.31
+vaultwarden/server:latest
+messense/aliyundrive-webdav:latest
+couchdb:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
