@@ -13,5 +13,3 @@ mysql:8.0.31
 vaultwarden/server:latest
 messense/aliyundrive-webdav:latest
 couchdb:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
