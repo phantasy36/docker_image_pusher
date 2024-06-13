@@ -10,3 +10,4 @@ mysql:8.0.31
 vaultwarden/server:latest
 messense/aliyundrive-webdav:latest
 couchdb:latest
+neosmemo/memos:stable
